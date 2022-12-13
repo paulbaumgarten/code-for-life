@@ -4,7 +4,7 @@ Portal for Code For Life files
 ## Files needed for 14 December 2022 workshops
 
 Download these files to your computer, and use Thonny to upload them to your Pico.
-* Download [lcd_api.py]https://raw.githubusercontent.com/paulbaumgarten/code-for-life/main/files/lcd_api.py)
+* Download [lcd_api.py](https://raw.githubusercontent.com/paulbaumgarten/code-for-life/main/files/lcd_api.py)
 * Download [pico_i2c_lcd.py](https://raw.githubusercontent.com/paulbaumgarten/code-for-life/main/files/pico_i2c_lcd.py)
 
 ## Links to other resources
